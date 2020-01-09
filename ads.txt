@@ -5,3 +5,5 @@ betterbannerscloud.com
 cdn.bannerflow.com
 eus.rubiconproject.com
 rubiconproject.com
+tpc.googlesyndication.com
+googlesyndication.com
